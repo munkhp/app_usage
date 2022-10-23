@@ -19,11 +19,11 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter.
-flutter:
-  plugin:
-    platforms:
-      android:
-        package: dk.cachet.app_usage
-        pluginClass: AppUsagePlugin
-      ios:
-        pluginClass: AppUsagePlugin
+#flutter:
+#  plugin:
+#    platforms:
+#      android:
+#        package: dk.cachet.app_usage
+#        pluginClass: AppUsagePlugin
+#      ios:
+#        pluginClass: AppUsagePlugin

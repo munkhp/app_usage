@@ -1,6 +1,6 @@
 name: app_usage
 description: App usage plugin for Android only
-version: 2.0.1
+version: 2.0.2
 homepage: https://github.com/munkhp/app_usage.git
 
 environment:
